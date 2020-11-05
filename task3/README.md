@@ -26,3 +26,17 @@
 ## LINK to module and test files:
 https://github.com/sajnanshetty/NLP/blob/master/task3/advance_python.py
 https://github.com/sajnanshetty/NLP/blob/master/task3/test_advance_python.py
+
+## Test results
+![coverage](https://github.com/sajnanshetty/NLP/blob/master/task3/cov.png)
+
+
+
+
+
+
+
+
+
+
+
