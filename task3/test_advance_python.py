@@ -107,7 +107,7 @@ def test_generate_vehicle_num_using_partial():
     two_digit = number_plate[2:4]
     two_char = number_plate[4:6]
     four_num = number_plate[6:10]
-    assert states == "DA"
+    assert states == "DL"
     assert two_digit.isdigit()
     assert two_char.isupper()
     assert four_num.isdigit()
